@@ -8,7 +8,7 @@
 
 #### GET: /avaliacao/estabelecimento
 
-http://localhost:5000/avaliacao/estabelecimentoId
+http://localhost:porta/avaliacao/estabelecimentoId
 
 Objetivo: Retornar todas as avaliações por estabelecimento
 Acesso: Publico
